@@ -1,0 +1,755 @@
+-Microsoft Visual C++ Redistributable x64 - start
+C++ Redistributables x64 2019 version: 30153
+-Microsoft Visual C++ Redistributable x64 - end
+-Microsoft Visual C++ Redistributable x86 - start
+C++ Redistributables x86 2019 version: 30153
+-Microsoft Visual C++ Redistributable x86 - end
+-Licensing Anchor Service Starting
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Administrator\lic32
+Extract: installanchorservice.exe... 100%
+Extract: taclic.exe... 100%
+Extract: taclic_libFNP.dll... 100%
+Extract: uninstallanchorservice.exe... 100%
+Extract: FNP_Act_Installer.dll... 100%
+Execute: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Administrator\lic32\installanchorservice.exe taclic EcoStruxure.Licensing.5.0
+installanchorservice.exe returned 0
+-Licensing Anchor Service Leaving
+-Licensing Anchorservice LicenseServer Address Starting
+License Server Address RegKey: HKLM\SOFTWARE\Schneider Electric\StruxureWare\License Administrator\TACLIC_LICENSE_FILE
+TACLIC_LICENSE_FILE: @localhost
+-Licensing Anchorservice LicenseServer Address Leaving
+-Licensing Anchor Service Starting
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Administrator\lic64
+Extract: installanchorservice.exe... 100%
+Extract: taclic.exe... 100%
+Extract: taclic_libFNP.dll... 100%
+Extract: uninstallanchorservice.exe... 100%
+Extract: FNP_Act_Installer.dll... 100%
+Execute: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Administrator\lic64\installanchorservice.exe taclic EcoStruxure.Licensing.5.0
+installanchorservice.exe returned 0
+-Licensing Anchor Service Leaving
+-Licensing Anchorservice LicenseServer Address Starting
+License Server Address RegKey: HKLM\SOFTWARE\Schneider Electric\StruxureWare\License Administrator\TACLIC_LICENSE_FILE
+TACLIC_LICENSE_FILE: @localhost
+-Licensing Anchorservice LicenseServer Address Leaving
+-LicenseAdministratorUninstaller Starting
+InstallationChoice: 'Repair'
+Uninstaller: 'Software\Microsoft\Windows\CurrentVersion\Uninstall\StruxureWare 5.0 License Administrator'
+Leaving -LicenseAdministratorUninstaller
+-LicenseAdministratorProduct Starting
+-LicenseAdministratorProduct Leaving
+-LicenseAdministratorApplicationFiles Starting
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Administrator
+Extract: ClientUtil_libFNP.dll... 100%
+Extract: DevComponents.WpfEditors.dll... 100%
+Extract: DocumentFormat.OpenXml.dll... 100%
+Extract: DocumentFormat.OpenXml.xml... 100%
+Extract: FnpCommsSoap.dll... 100%
+Extract: Google.Protobuf.dll... 100%
+Extract: HtmlAgilityPack.dll... 100%
+Extract: LEGAL.txt... 100%
+Extract: LMClient32_libFNP.dll... 100%
+Extract: Microsoft.Web.WebView2.Core.dll... 100%
+Extract: Microsoft.Web.WebView2.Wpf.dll... 100%
+Extract: ParallelExtensionsExtras.dll... 100%
+Extract: SE.SBO.WorkStation.License.Administrator.Uninstaller.exe... 100%
+Extract: SE.SBO.WorkStation.Licensing.Application.exe... 100%
+Extract: SE.SBO.WorkStation.Licensing.Application.exe.config... 100%
+Extract: SE.WorkStation.ApplicationServices.dll... 100%
+Extract: SE.WorkStation.Base.Windows.dll... 100%
+Extract: SE.WorkStation.Base.Windows.dll.config... 100%
+Extract: SE.WorkStation.Base.dll... 100%
+Extract: SE.WorkStation.BusinessLayer.dll... 100%
+Extract: SE.WorkStation.Communication.Asn1.dll... 100%
+Extract: SE.WorkStation.Communication.WBL.dll... 100%
+Extract: SE.WorkStation.Communication.dll... 100%
+Extract: SE.WorkStation.Controls.dll... 100%
+Extract: SE.WorkStation.Core.Windows.dll... 100%
+Extract: SE.WorkStation.Core.dll... 100%
+Extract: SE.WorkStation.CrashReport.exe... 100%
+Extract: SE.WorkStation.CrashReport.exe.config... 100%
+Extract: SE.WorkStation.Framework.Windows.dll... 100%
+Extract: SE.WorkStation.Framework.Windows.dll.config... 100%
+Extract: SE.WorkStation.Framework.dll... 100%
+Extract: SE.WorkStation.Framework.dll.config... 100%
+Extract: SE.WorkStation.IconResources.dll... 100%
+Extract: SE.WorkStation.IntegrationObjects.Complex.dll... 100%
+Extract: SE.WorkStation.IntegrationObjects.Simple.dll... 100%
+Extract: SE.WorkStation.Licensing.Api.dll... 100%
+Extract: SE.WorkStation.Licensing.Api.dll.config... 100%
+Extract: SE.WorkStation.Licensing.LMClient.Api.dll... 100%
+Extract: SE.WorkStation.Licensing.LMClient32.dll... 100%
+Extract: SE.WorkStation.Licensing.LMClient32.lib... 100%
+Extract: SE.WorkStation.Licensing.Windows.dll... 100%
+Extract: SE.WorkStation.Licensing.dll... 100%
+Extract: SE.WorkStation.Otm.dll... 100%
+Extract: SE.WorkStation.Settings.dll... 100%
+Extract: SE.WorkStation.Settings.dll.config... 100%
+Extract: SE.WorkStation.Themes.dll... 100%
+Extract: SE.WorkStation.Windows.WpfDock.dll... 100%
+Extract: SE.WorkStation.Windows.WpfDock.xml... 100%
+Extract: SchneiderCETStyle.dll... 100%
+Extract: Server_libFNP.dll... 100%
+Extract: System.Buffers.dll... 100%
+Extract: System.Collections.Immutable.dll... 100%
+Extract: System.Collections.Immutable.xml... 100%
+Extract: System.Memory.dll... 100%
+Extract: System.Numerics.Vectors.dll... 100%
+Extract: System.Reactive.Core.dll... 100%
+Extract: System.Reactive.Core.xml... 100%
+Extract: System.Reactive.Interfaces.dll... 100%
+Extract: System.Reactive.Interfaces.xml... 100%
+Extract: System.Reactive.Linq.dll... 100%
+Extract: System.Reactive.Linq.xml... 100%
+Extract: System.Reactive.PlatformServices.dll... 100%
+Extract: System.Reactive.PlatformServices.xml... 100%
+Extract: System.Reactive.Windows.Threading.dll... 100%
+Extract: System.Runtime.CompilerServices.Unsafe.dll... 100%
+Extract: System.Windows.Controls.Input.Toolkit.dll... 100%
+Extract: System.Windows.Interactivity.dll... 100%
+Extract: System.Windows.Interactivity.xml... 100%
+Extract: Tac.Nsp.Archive.Licensing.Client.dll... 100%
+Extract: Tac.Nsp.Archive.Licensing.Server.dll... 100%
+Extract: VDS.Common.dll... 100%
+Extract: WPFToolkit.dll... 100%
+Extract: Xceed.Wpf.Controls.v6.7.XmlSerializers.dll... 100%
+Extract: Xceed.Wpf.Controls.v6.7.dll... 100%
+Extract: Xceed.Wpf.Controls.v6.7.xml... 100%
+Extract: Xceed.Wpf.DataGrid.v6.7.XmlSerializers.dll... 100%
+Extract: Xceed.Wpf.DataGrid.v6.7.dll... 100%
+Extract: Xceed.Wpf.DataGrid.v6.7.xml... 100%
+Extract: asn1rt.dll... 100%
+Extract: dotNetRDF.dll... 100%
+Extract: log4net.dll... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Administrator\de
+Extract: SchneiderCETStyle.resources.dll... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Administrator\en
+Extract: SchneiderCETStyle.resources.dll... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Administrator\en-US
+Extract: SE.SBO.WorkStation.Licensing.Application.resources.dll... 100%
+Extract: SE.WorkStation.Licensing.Api.resources.dll... 100%
+Extract: SE.WorkStation.Licensing.Windows.resources.dll... 100%
+Extract: SE.WorkStation.Licensing.resources.dll... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Administrator\es
+Extract: SchneiderCETStyle.resources.dll... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Administrator\fr
+Extract: SchneiderCETStyle.resources.dll... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Administrator\it
+Extract: SchneiderCETStyle.resources.dll... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Administrator\zh-CHS
+Extract: SchneiderCETStyle.resources.dll... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Administrator
+Extract: FNP_Act_Installer.dll... 100%
+Output folder: C:\ProgramData\Schneider Electric EcoStruxure\Building Operation 5.0\License Files
+Create folder: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Schneider Electric EcoStruxure\Building Operation 5.0
+Create shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Schneider Electric EcoStruxure\Building Operation 5.0\License Administrator Building Operation 5.0.lnk
+Updating version_history.txt
+-LicenseAdministratorApplicationFiles Leaving
+-LicenseAdministrator System Keys Starting
+-LicenseAdministrator System Keys Leaving
+-LicenseServerUninstaller Starting
+InstallationChoice: 'Repair'
+Uninstaller: 'Software\Microsoft\Windows\CurrentVersion\Uninstall\StruxureWare 5.0 License Server'
+License Server stopped
+Leaving -LicenseServerUninstaller
+-LicenseServerProduct Starting
+-LicenseServerProduct Leaving
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server
+Extract: Xalan-C_1_12.dll... 100%
+Extract: XalanMessages_1_12.dll... 100%
+Extract: hasp_rt.exe... 100%
+Extract: haspsrm_win64.dll... 100%
+Extract: libcrypto-1_1-x64.dll... 100%
+Extract: libssl-1_1-x64.dll... 100%
+Extract: lmadmin.exe... 100%
+Extract: vcredist_x64.exe... 100%
+Extract: xerces-c_3_2.dll... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\conf
+Extract: mime.types... 100%
+Extract: server.crt... 100%
+Extract: server.key... 100%
+Extract: server.xml... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\demo
+Extract: demo.lic... 100%
+Extract: demo.opt
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\eventlog
+Extract: EventLogAdd.reg... 100%
+Extract: EventLogRemove.reg... 100%
+Extract: FnplmLicenseServerMsgs.mc... 100%
+Extract: FnplmLicenseServerMsgs64.dll... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web
+Extract: error.html... 100%
+Extract: favicon.ico... 100%
+Extract: index.html... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html\uihelp
+Extract: HTML5Target.mclog... 100%
+Extract: Sitemap.xml... 100%
+Extract: csh.js... 100%
+Extract: wwhelp.htm... 100%
+Extract: wwhelp.js... 100%
+Extract: wwhelp.mcwebhelp... 100%
+Extract: wwhelp_CSH.htm... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html\uihelp\Content
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html\uihelp\Content\Resources
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html\uihelp\Content\Resources\Stylesheets
+Extract: prism.js... 100%
+Extract: techpub_styles.css... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html\uihelp\Content\Resources\Stylesheets\Images
+Extract: note.png
+Extract: note_advanced.png
+Extract: note_bp.png
+Extract: note_caution.png
+Extract: note_edition.png
+Extract: note_important.png
+Extract: note_lab.png
+Extract: note_project.png
+Extract: note_security.png
+Extract: note_task.png
+Extract: note_tip.png... 100%
+Extract: note_toc.png
+Extract: note_tutorial.png
+Extract: note_version.png
+Extract: note_windows.png... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html\uihelp\Content\Resources\TableStyles
+Extract: Double-Indented_Table.css... 100%
+Extract: Shaded_Column_Table_in_Body.css... 100%
+Extract: Shaded_Row_Table_in_Body.css... 100%
+Extract: Table_Under_List.css... 100%
+Extract: Table_in_Body.css... 100%
+Extract: Table_in_Procedure.css... 100%
+Extract: Table_in_Procedure_Indented.css... 100%
+Extract: Wide_Table.css... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html\uihelp\Content\helplibrary
+Extract: AddUsers.htm... 100%
+Extract: AdministerDaemon.htm... 100%
+Extract: DeleteDaemon.htm... 100%
+Extract: DeleteUsers.htm... 100%
+Extract: EditUsers.htm... 100%
+Extract: ForcePwd.htm... 100%
+Extract: ImportLicFileToAddDaemon.htm... 100%
+Extract: ImportLicRightsforDaemon.htm... 100%
+Extract: Threads.gif... 100%
+Extract: UnderstandAcctTypes.htm... 100%
+Extract: UpdateConfigProperties.htm... 100%
+Extract: UpdateDaemonLogProps.htm... 100%
+Extract: ViewUserSummary.htm... 100%
+Extract: ViewVendorSummary.htm... 100%
+Extract: _Help_Library_.htm... 100%
+Extract: adminTOC.htm... 100%
+Extract: alertconfig.htm... 100%
+Extract: contact_us.htm... 100%
+Extract: dashboard.htm... 100%
+Extract: glossary.htm... 100%
+Extract: legal_info.htm... 100%
+Extract: licserv.png... 100%
+Extract: overview.htm... 100%
+Extract: serverconfig.htm... 100%
+Extract: systeminfo.htm... 100%
+Extract: userinterface.htm... 100%
+Extract: users.htm... 100%
+Extract: vendordaemon.htm... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html\uihelp\Data
+Extract: Alias.js... 100%
+Extract: Alias.xml... 100%
+Extract: Concepts.js
+Extract: Glossary.js... 100%
+Extract: Glossary_Chunk0.js... 100%
+Extract: HelpSystem.js... 100%
+Extract: HelpSystem.xml... 100%
+Extract: Index.js... 100%
+Extract: Index_Chunk0.js... 100%
+Extract: Language.js... 100%
+Extract: Search.js... 100%
+Extract: SearchPhrase_Chunk0.js... 100%
+Extract: SearchPhrase_Chunk1.js... 100%
+Extract: SearchPhrase_Chunk2.js... 100%
+Extract: SearchPhrase_Chunk3.js... 100%
+Extract: SearchPhrase_Chunk4.js... 100%
+Extract: SearchStem_Chunk0.js... 100%
+Extract: SearchStem_Chunk1.js... 100%
+Extract: SearchTopic_Chunk0.js... 100%
+Extract: SearchUrl_Chunk0.js... 100%
+Extract: Synonyms.js... 100%
+Extract: Synonyms.xml... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html\uihelp\Data\Tocs
+Extract: helplibrary.js... 100%
+Extract: helplibrary_Chunk0.js... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html\uihelp\Resources
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html\uihelp\Resources\Scripts
+Extract: MadCapAll.js... 100%
+Extract: PIE.htc... 100%
+Extract: foundation.min.js... 100%
+Extract: jquery.min.js... 100%
+Extract: jquery.offcanvas.js... 100%
+Extract: plugins.min.js... 100%
+Extract: purify.min.js... 100%
+Extract: require.config.js
+Extract: require.min.js... 100%
+Extract: stemmer-english.amd.min.js... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html\uihelp\Skins
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html\uihelp\Skins\Default
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html\uihelp\Skins\Default\Stylesheets
+Extract: Slideshow.css... 100%
+Extract: Styles.css... 100%
+Extract: TextEffects.css... 100%
+Extract: TextEffects.micro-content.css... 100%
+Extract: Topic.css... 100%
+Extract: Topic.micro-content.css... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html\uihelp\Skins\Default\Stylesheets\Components
+Extract: Styles.css... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\html\uihelp\Skins\Default\Stylesheets\Images
+Extract: Filter.png... 100%
+Extract: FilterOutline.png... 100%
+Extract: MCSlider_controls.png... 100%
+Extract: MCSlider_loader.gif... 100%
+Extract: RatingStars.png
+Extract: ResponsiveMenuButton.png... 100%
+Extract: ReveneraLogoRev_2.png
+Extract: SearchIcon.png... 100%
+Extract: arrow-down.png... 100%
+Extract: arrow-up.png... 100%
+Extract: black_bkg.png... 100%
+Extract: book-open.png
+Extract: book.png
+Extract: browseActive.png
+Extract: browseInactiveLight.png
+Extract: close.png
+Extract: closed.png
+Extract: collapse.png
+Extract: communityActive.png
+Extract: communityInactiveLight.png
+Extract: diagonal_lines.png
+Extract: document_3.png
+Extract: edit-profile.png
+Extract: expand.png
+Extract: glossaryActive.png
+Extract: glossaryInactiveLight.png
+Extract: help-control.png
+Extract: highlight.png
+Extract: icon-user-gray.png
+Extract: icon-user-light-gray.png
+Extract: index-collapsed.png... 100%
+Extract: index-expanded.png... 100%
+Extract: index.png... 100%
+Extract: indexActive.png... 100%
+Extract: indexInactiveLight_1.png... 100%
+Extract: loading-32px.gif... 100%
+Extract: loading.gif... 100%
+Extract: login-dialog-icon.png
+Extract: login.png
+Extract: logo.png... 100%
+Extract: magnifying_glass.png
+Extract: navigate-next.png
+Extract: navigate-previous.png
+Extract: new-indicator.png... 100%
+Extract: open.png
+Extract: printer.png
+Extract: search.png
+Extract: select-language.png
+Extract: select-skin.png
+Extract: star-empty.png
+Extract: star-full.png
+Extract: tocActive.png... 100%
+Extract: tocInactiveLight_1.png... 100%
+Extract: topic.png
+Extract: transparent.gif... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\images
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\images\controls
+Extract: alerts.fla... 100%
+Extract: alerts.html... 100%
+Extract: alerts.swf
+Extract: check_disabled_off.gif... 100%
+Extract: check_disabled_on.gif... 100%
+Extract: check_hover_off.gif... 100%
+Extract: check_hover_on.gif
+Extract: check_off.gif... 100%
+Extract: check_on.gif
+Extract: warning.png
+Extract: warning_sel.png
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\images\icons
+Extract: 12greenCheck.gif
+Extract: 13greenCheck.gif... 100%
+Extract: 13redCheck.gif... 100%
+Extract: 14tableClosed.gif
+Extract: 14tableOpen.gif
+Extract: 16changeFields.gif... 100%
+Extract: 16closePopup.gif... 100%
+Extract: 16computer.gif
+Extract: 16computerTimed.gif... 100%
+Extract: 16delete.gif... 100%
+Extract: 16deleteIn.gif... 100%
+Extract: 16deleteOut.gif... 100%
+Extract: 16user.gif
+Extract: 16userTimed.gif... 100%
+Extract: 24round1server.gif... 100%
+Extract: 24round3server.gif... 100%
+Extract: 24roundAdd.gif... 100%
+Extract: 24roundEmail.gif
+Extract: 24roundMail.gif... 100%
+Extract: 24roundReplace.gif
+Extract: 24roundSubtract.gif
+Extract: 32folderExe.gif
+Extract: 32folderExtras.gif
+Extract: 32folderHardware.gif
+Extract: 32folderManual.gif
+Extract: 32folderMedia.gif
+Extract: 32help.gif
+Extract: 32helpOver.gif
+Extract: 32logout.gif
+Extract: 32logoutOver.gif
+Extract: 32profile.gif
+Extract: 32profileOver.gif
+Extract: 3os.gif
+Extract: 48criticalDis.png
+Extract: 48criticalSel.png
+Extract: 48criticalUn.png
+Extract: 48importantDis.png
+Extract: 48importantSel.png
+Extract: 48importantUn.png
+Extract: 48licenseDetails.gif
+Extract: 48minorDis.png
+Extract: 48minorSel.png
+Extract: 48minorUn.png
+Extract: 48rehostLicense.gif
+Extract: 48repairLicense.gif
+Extract: 48returnLicense.gif
+Extract: 48search.jpg... 100%
+Extract: 60activatableIn.gif
+Extract: 60activatableOutOver.gif
+Extract: 60addUserIn.gif
+Extract: 60addUserOut.gif
+Extract: 60addUserOver.gif
+Extract: 60assignLicenseOut.gif
+Extract: 60assignLicenseOutOver.gif
+Extract: 60concurrentIn.gif
+Extract: 60concurrentOutOver.gif
+Extract: 60downloadFilesIn.gif
+Extract: 60downloadFilesOut.gif
+Extract: 60downloadFilesOutOver.gif
+Extract: 60downloadMultipleIn.gif
+Extract: 60downloadMultipleOut.gif
+Extract: 60downloadMultipleOutOver.gif
+Extract: 60downloadSingleIn.gif
+Extract: 60downloadSingleOut.gif
+Extract: 60downloadSingleOutOver.gif
+Extract: 60finishOut.gif
+Extract: 60finishOutOver.gif
+Extract: 60floatingIn.gif
+Extract: 60floatingOut.gif
+Extract: 60floatingOutOver.gif
+Extract: 60mailFilesIn.gif
+Extract: 60mailFilesOut.gif
+Extract: 60mailFilesOutOver.gif... 100%
+Extract: 60multipleUsersIn.gif
+Extract: 60multipleUsersOut.gif
+Extract: 60multipleUsersOver.gif
+Extract: 60nodeLockedIn.gif
+Extract: 60nodeLockedOut.gif
+Extract: 60nodeLockedOutOver.gif
+Extract: 60singleUserIn.gif
+Extract: 60singleUserOut.gif
+Extract: 60singleUserOver.gif
+Extract: addLicenseOut.png
+Extract: addLicenseOver.png
+Extract: arrowDown.gif... 100%
+Extract: arrowUp.gif
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\images\popup
+Extract: aqua-bg1.gif... 100%
+Extract: aqua-bg2.gif... 100%
+Extract: aqua-hd-lt.gif... 100%
+Extract: bg.png
+Extract: blank.gif... 100%
+Extract: bottom_bar.gif... 100%
+Extract: center.gif
+Extract: center.jpg... 100%
+Extract: center.png... 100%
+Extract: corner_bl.gif... 100%
+Extract: corner_br.gif... 100%
+Extract: corner_ul.gif... 100%
+Extract: corner_ur.gif... 100%
+Extract: header.jpg... 100%
+Extract: headerBackground.gif... 100%
+Extract: lside_bar.gif... 100%
+Extract: overlay.png... 100%
+Extract: rside_bar.gif... 100%
+Extract: rt_cor.gif
+Extract: top_bar.gif... 100%
+Extract: tr_bk.gif... 100%
+Extract: x_popup.gif... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\images\structure
+Extract: accordionBackground.gif... 100%
+Extract: contentBackground.gif... 100%
+Extract: diagonalLineBackground.gif... 100%
+Extract: genericRectangleBackground.jpg... 100%
+Extract: headerBackground.jpg... 100%
+Extract: licenseBackground.jpg... 100%
+Extract: logo.jpg... 100%
+Extract: logoAlternate.jpg
+Extract: searchBackground.jpg... 100%
+Extract: spacer.gif... 100%
+Extract: tabAlerts.jpg... 100%
+Extract: tabAssign.jpg... 100%
+Extract: tabCommand.jpg... 100%
+Extract: tabConfiguration.jpg... 100%
+Extract: tabDownload.jpg... 100%
+Extract: tabManage.jpg... 100%
+Extract: tabSelAlerts.jpg... 100%
+Extract: tabSelAssign.jpg... 100%
+Extract: tabSelCommand.jpg... 100%
+Extract: tabSelConfiguration.jpg... 100%
+Extract: tabSelDownload.jpg... 100%
+Extract: tabSelManage.jpg... 100%
+Extract: tabSelUsers.jpg... 100%
+Extract: tabSelVendor.jpg... 100%
+Extract: tabUsers.jpg... 100%
+Extract: tabVendor.jpg... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\resources
+Extract: AC_RunActiveContent.js... 100%
+Extract: ajax.js... 100%
+Extract: content.css... 100%
+Extract: deleteCart.js... 100%
+Extract: deleteCartD.js... 100%
+Extract: dom.js... 100%
+Extract: drag.js... 100%
+Extract: dragdrop-debug.js... 100%
+Extract: dropdownMail.js... 100%
+Extract: dropdownTriad.js... 100%
+Extract: event.js... 100%
+Extract: getArrayAjax.js... 100%
+Extract: logger.js... 100%
+Extract: moo.fx.js... 100%
+Extract: moo.fx.pack.js... 100%
+Extract: popup.js... 100%
+Extract: prototype.js... 100%
+Extract: standard.js... 100%
+Extract: structure.css... 100%
+Extract: tabber.css... 100%
+Extract: tabber.js... 100%
+Extract: tableSorter.js... 100%
+Extract: veneer.css... 100%
+Extract: veneerPopup.css... 100%
+Extract: yahoo.js... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\resources\508
+Extract: content.css... 100%
+Extract: structure.css... 100%
+Extract: veneer.css... 100%
+Extract: veneerPopup.css... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\resources\yahoofiles
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\resources\yahoofiles\yp_files
+Extract: animation.js... 100%
+Extract: autocomplete.js... 100%
+Extract: container.js... 100%
+Extract: dom.js... 100%
+Extract: dragdrop.js... 100%
+Extract: event.js... 100%
+Extract: foobar.js... 100%
+Extract: yahoo.js... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\strings
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\strings\en
+Extract: default.xml... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web\xslt
+Extract: _copy.xsl... 100%
+Extract: _feature.xsl... 100%
+Extract: _fulfillment.xsl... 100%
+Extract: _gethost.xsl... 100%
+Extract: _host.xsl... 100%
+Extract: _product.xsl... 100%
+Extract: _searchfulfillment.xsl... 100%
+Extract: _searchhost.xsl... 100%
+Extract: _searchuser.xsl... 100%
+Extract: _user.xsl... 100%
+Extract: admin.xsl... 100%
+Extract: adminAlerts.xsl... 100%
+Extract: adminAlertsForm.xsl... 100%
+Extract: adminNav.xsl... 100%
+Extract: adminRedundantSystemInfoDisplay.xsl... 100%
+Extract: adminSystem.xsl... 100%
+Extract: adminSystemForm.xsl... 100%
+Extract: adminSystemHostDisplay.xsl... 100%
+Extract: adminSystemInfo.xsl... 100%
+Extract: adminSystemInfoDisplay.xsl... 100%
+Extract: adminUsers.xsl... 100%
+Extract: adminVendor.xsl... 100%
+Extract: adminVendorForm.xsl... 100%
+Extract: alertSummary.xsl... 100%
+Extract: alertSummaryDetails.xsl... 100%
+Extract: alerts.xsl... 100%
+Extract: autoLogin.xsl... 100%
+Extract: commonAdmin.xsl... 100%
+Extract: commonDashboard.xsl... 100%
+Extract: commonDetails.xsl... 100%
+Extract: commonPassword.xsl... 100%
+Extract: commonSignin.xsl... 100%
+Extract: concurrentHostsDetails.xsl... 100%
+Extract: concurrentHostsExport.xsl... 100%
+Extract: concurrenthosts.xsl... 100%
+Extract: dashboard.xsl... 100%
+Extract: display.xsl... 100%
+Extract: displayall.xsl... 100%
+Extract: errorMessageCount.xsl... 100%
+Extract: expiredPassword.xsl... 100%
+Extract: export.xsl... 100%
+Extract: floatingSummaryDetails.xsl... 100%
+Extract: footer.xsl... 100%
+Extract: fulfillments.xsl... 100%
+Extract: fulfillmentsDetails.xsl... 100%
+Extract: fulfillmentsExport.xsl... 100%
+Extract: getHostIPv4Address.xsl... 100%
+Extract: getHostIPv6Address.xsl... 100%
+Extract: getHostName.xsl... 100%
+Extract: getHostNameWithDomain.xsl... 100%
+Extract: getMasterName.xsl... 100%
+Extract: handlepassword.xsl... 100%
+Extract: handlesignin.xsl... 100%
+Extract: header.xsl... 100%
+Extract: headerNav.xsl... 100%
+Extract: help.xsl... 100%
+Extract: helpAdmin.xsl... 100%
+Extract: hostDetails.xsl... 100%
+Extract: hostExport.xsl... 100%
+Extract: hosts.xsl... 100%
+Extract: hostsDetails.xsl... 100%
+Extract: hostsExport.xsl... 100%
+Extract: hostsummary.xsl... 100%
+Extract: importLicense.xsl... 100%
+Extract: importedUserCount.xsl... 100%
+Extract: importedUserTable.xsl... 100%
+Extract: importedUsersList.xsl... 100%
+Extract: licenseSummary.xsl... 100%
+Extract: licenseSummaryDetails.xsl... 100%
+Extract: licenses.xsl... 100%
+Extract: localUserCount.xsl... 100%
+Extract: localUserTable.xsl... 100%
+Extract: locale.xsl... 100%
+Extract: localeCount.xsl... 100%
+Extract: localeDefaultDropDown.xsl... 100%
+Extract: localeSelectionDropDown.xsl... 100%
+Extract: login.xsl... 100%
+Extract: login508.xsl... 100%
+Extract: password.xsl... 100%
+Extract: savelicconfig.xsl... 100%
+Extract: serverLogLevelDropDown.xsl... 100%
+Extract: sessionTimeout.xsl... 100%
+Extract: signin.xsl... 100%
+Extract: signout.xsl... 100%
+Extract: startupMessages.xsl... 100%
+Extract: systeminfo.xsl... 100%
+Extract: testVendorParameter.xsl... 100%
+Extract: userName.xsl... 100%
+Extract: userType.xsl... 100%
+Extract: users.xsl... 100%
+Extract: usersList.xsl... 100%
+Extract: vendor.xsl... 100%
+Extract: vendorByIndex.xsl... 100%
+Extract: vendorConfig.xsl... 100%
+Extract: vendorCount.xsl... 100%
+Extract: vendorPort.xsl... 100%
+Extract: vendorSelectionDropDown.xsl... 100%
+Extract: vendorSelectionForm.xsl... 100%
+Extract: vendorStatus.xsl... 100%
+Extract: vendorsList.xsl... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\wsdl
+Extract: LicenseServer.wsdl... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server
+Extract: FNP_Act_Installer.dll... 100%
+Extract: appcomptranutil.exe... 100%
+Extract: appcomptranutil_libFNP.dll... 100%
+Extract: FnpCommsSoap.dll... 100%
+Extract: appactutil.exe... 100%
+Extract: appactutil_libFNP.dll... 100%
+Extract: taclic.exe... 100%
+Extract: taclic_libFNP.dll... 100%
+Extract: lmutil.exe... 100%
+Extract: preptool.exe... 100%
+Extract: servercomptranutil.exe... 100%
+Extract: servercomptranutil_libFNP.dll... 100%
+Extract: serveractutil.exe... 100%
+Extract: serveractutil_libFNP.dll... 100%
+Extract: lmtools.exe... 100%
+Extract: tsreset_app.exe... 100%
+Extract: tsreset_app_libFNP.dll... 100%
+Extract: tsreset_svr.exe... 100%
+Extract: tsreset_svr_libFNP.dll... 100%
+Extract: VendorLicenseServerMsgs.dll... 100%
+Extract: taclic.lic... 100%
+Extract: SE.SBO.License.Server.Uninstaller.exe... 100%
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server
+Delete file: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\conf\conf_backup\mime.types
+Delete file: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\conf\conf_backup\server.crt
+Delete file: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\conf\conf_backup\server.key
+Delete file: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\conf\conf_backup\server.xml
+Remove folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\conf\conf_backup\
+Create folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\conf\conf_backup
+Copy to C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\conf\conf_backup
+Copy failed
+Copy failed
+Output folder: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server
+Adding access rights for S-1-1-0 to directory "C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server" needed by the Building Operation License Server service
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\cache
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\conf
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\demo
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\eventlog
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\examples
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\licenses
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\wsdl
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+icacls "C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server" /grant S-1-1-0:(OI)(CI)F /T /C returned 0 (logs directory ignored)
+Adding access rights for S-1-5-19 to directory "C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server" needed by the Building Operation License Server service
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\cache
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\conf
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\demo
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\eventlog
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\examples
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\licenses
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\web
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+file elaborato: C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server\wsdl
+Elaborazione completata per 1 file. Elaborazione non riuscita per 0 file
+icacls "C:\Program Files (x86)\Schneider Electric EcoStruxure\Building Operation 5.0\License Server" /grant S-1-5-19:(OI)(CI)F /T /C returned 0 (logs directory ignored)
+Adding access rights to directory "c:\ProgramData\Schneider Electric EcoStruxure\Building Operation\License Server" needed by the Building Operation License Server service
+WARNING: Configuration file does not have a valid signature
+Updated vendor daemon configuration for taclic.
+lmadmin -import taclic.lic -allowStopServer yes returned 0
+Failed to install license server as service:
+service is already installed.
+lmadmin -installService Building Operation License Server -allowStopServer yes returned 1
+Servizio Building Operation 5.0 License Server in fase di avvio .
+Impossibile avviare il servizio Building Operation 5.0 License Server.
+
+Errore di sistema.
+
+Errore di sistema 1067.
+
+Termine imprevisto del processo.
+
+net start Building Operation License Server returned 2
+Rebooting Building Operation License Server
+SimpleSC::ServiceIsRunning returned: 0
+Service not yet running, waiting ten seconds...
+SimpleSC::ServiceIsRunning returned: 0
+Service not yet running, waiting ten seconds...
+SimpleSC::ServiceIsRunning returned: 0
+Service not yet running, waiting ten seconds...
+SimpleSC::ServiceIsRunning returned: 0
+Service not yet running, waiting ten seconds...
+
+
